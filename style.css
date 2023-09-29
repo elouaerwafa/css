@@ -1,0 +1,53 @@
+nav {
+    background-color: blanchedalmond; 
+    list-style-type: none;
+    text-align: center;
+    margin: 10;
+    padding: 30;
+   font: 400 ;
+  font-family: "roboto";
+
+
+  }
+  
+  nav {
+    display: inline;
+    font-size: 50px;
+    padding: 20px;
+   padding-top: 40px;
+    padding-right: 30px;
+     padding-bottom: 30px;
+     padding-left: 30px;
+  }
+  h1 {
+    color: blue;
+}
+ .worming nav   {
+    margin-right: 300px;
+    padding-right: 500px;
+    color: black;
+   }
+   .close{
+    padding-top: 40px;
+    padding-right: 30px;
+     padding-bottom: 30px;
+     padding-left: 30px;
+     st
+    }
+
+    h1+p {
+        font-weight:bold ;
+    border: 0cm;
+    background-color: azure;
+    padding: 0em;
+}
+nav { 
+  
+  display: block;
+   height: min-content; 
+    width: max-content;
+background:scroll;
+ color: honeydew; 
+margin: 5px 5px;
+bor }
+
